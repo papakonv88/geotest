@@ -23,8 +23,9 @@ conda env create -f <b>pythonenv.yml</b>  <br></br>
 conda activate geotest03  <br></br> 
 python ./../.../<b>toPostgis.py</b> argument(shapefile path)  <br></br> 
 
-<b>Tasks 2 and 4</b> are being performed
+<b>Tasks 2 and 4</b> are being performed <br></br>
 
+Check for detail in comments inside scripts
 
 
 
